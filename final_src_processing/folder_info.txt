@@ -1,0 +1,5 @@
+.\photo\Boston	6
+.\photo\Newyork	6
+.\photo\Sapporo	5
+.\photo\Tokyo	8
+.\photo\Washington	3
